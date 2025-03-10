@@ -4,7 +4,7 @@
   </main>
 </template>
 
-<script setup lang="ts">
+<script setup>
 import ListWithPagination from "./components/ListWithPagination.vue";
 import listConfig from "./listConfig"
 import { generateTestData } from "./utils"
